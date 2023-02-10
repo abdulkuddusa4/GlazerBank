@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+#headerPopup{
+  width:45%;
+  height: 45%;
+  margin:0 auto;
+}
+
+#headerPopup iframe{
+  width:10%;
+  height: 10%;
+  margin:0 auto;
+}
+video{
+    width: 40%;
+    height: 40%;
+}
